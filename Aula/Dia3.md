@@ -1,3 +1,6 @@
+# Dia 3
+
+
 No dia três tivemos o primeiro video de entrodução ao Ruby falando sobre seu criador, como foi criado e uma visão básica de como funciona. Além disso esse dia foi focado nas instalaçôes dos programas necessários para utilização do Ruby
 
 

@@ -1,3 +1,5 @@
+# Dia 1
+
 Nesse dia aprendemos atraves dos vídeos da Rafaela Ballerini os principais conceitos do git e git hub, comandos usados e exmplos de como usa-los.
 
 

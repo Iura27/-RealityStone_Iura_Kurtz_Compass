@@ -9,9 +9,23 @@ A Calculadora Ruby é uma aplicação em ruby visando os possíveis testes de se
 
 # Instalação e funcionamento dos códigos;
     Para execução deste código é necessário:
-    - ```Ruby```
-    - Gem rspec
-    - Para executar a calculadora: ruby calculadora.rb
+    
+    #Ambiente:
+        #Ruby
+        #VsCode e pligins do ruby(Ruby, VSCode Ruby, Ruby Solagraph)
+        #Criar um arquivo chamdo 'Gemfile' e colocar no topo 'source "http://rubygems.org", gem 'rspec' '
+    
+    #No cmd executar 'bundle install'
+    
+    #Também no cmd executar bundle exec
+    
+    #Para executar os testes, entrar no repositorio specs\calculadora_spec.rb 
+    
+    #E executar 'bundle exec rspec specs\calculadora_spec.rb'
+    
+    #Para executar a calculadora, entrar no repositório src\calculadora.rb
+    
+    #E executar 'ruby calculadora.rb'
 
 
 # Nome das variáveis e métodos
