@@ -26,13 +26,13 @@ A Calculadora Ruby é uma aplicação em ruby visando os possíveis testes de se
     #E executar 'ruby calculadora.rb'
 
 
-## Nome das variáveis e métodos
-#Váriaveis 'a' e 'b'
-#Métodos: 
-    #soma()
-    #subtrair() 
-    #divisao() 
-    #multiplicacao() 
-    #potenciacao() 
-    #radiciacao()
+## Nome das variáveis e métodos;
+    #Váriaveis 'a' e 'b'
+    #Métodos: 
+        #soma()
+        #subtrair() 
+        #divisao() 
+        #multiplicacao() 
+        #potenciacao() 
+        #radiciacao()
 
